@@ -233,3 +233,6 @@ This repository serves as the official landing page for Craigslist Notifier. The
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://CraigslistNotifier.net)
 
 **Get the most recent version of Craigslist Notifier today!**
+
+---
+**Last updated:** 2026-09-12 12:27:16 UTC
